@@ -2,17 +2,11 @@
 
 ### About Me
 
-<a href="https://github.com/hashgraph">
-  <img src="images/hedera-logo.png" alt="Hedera logo" width="24" />
-</a> Platform Engineer at <a href="https://github.com/hashgraph">hashgraph</a>.<br><br>
+[![Hedera logo](images/hedera-logo-24px.png)](https://github.com/hashgraph) Platform Engineer at [hashgraph](https://github.com/hashgraph).
 
-<a href="https://github.com/hiero-ledger">
-  <img src="images/hiero-ledger-logo.png" alt="Hiero-Ledger logo" width="24" />
-</a> Maintainer at <a href="https://github.com/hiero-ledger">hiero-ledger</a>.<br><br>
+[![Hiero-Ledger logo](images/hiero-ledger-logo-24px.png)](https://github.com/hiero-ledger) Maintainer at [hiero-ledger](https://github.com/hiero-ledger).
 
-<a href="https://github.com/PandasWhoCode">
-  <img src="images/pandas-who-code-logo.png" alt="Pandas Who Code logo" width="24" />
-</a> Maintainer at <a href="https://github.com/PandasWhoCode">PandasWhoCode</a>.<br><br>
+[![Pandas Who Code logo](images/pandas-who-code-logo-24px.png)](https://github.com/PandasWhoCode) Maintainer at [PandasWhoCode](https://github.com/PandasWhoCode).
 
 | Stats                                                                                                              | Langs                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
