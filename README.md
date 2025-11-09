@@ -8,7 +8,9 @@
 
 [![Pandas Who Code logo](images/pandas-who-code-logo-24px.png)](https://github.com/PandasWhoCode) Maintainer at [PandasWhoCode](https://github.com/PandasWhoCode)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewb1269)
+[![LinkedIn logo](images/linkedin-logo-24px.png)](https://linkedin.com/in/andrewb1269) LinkedIn Page [here](https://linkedin.com/in/andrewb1269)
+
+### GitHub Stats
 
 | Stats                                                                                                              | Langs                                                                                                                |
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -24,12 +26,10 @@ Previous Github Account: [andrewb1269](https://github.com/andrewb1269)
 
 ### Everything Else
 
-🌳 Trail Runner
-
 💵 Personal Finance Nerd
 
 📚 Book Lover on Goodreads: [andrewb1269](https://www.goodreads.com/andrewb1269)
 
 🦋 Find me on BlueSky: [andrewb1269](https://bsky.app/profile/andrewb1269.bsky.social)
 
-🏃 Find me on [![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/17505458)
+🏃 Trail Runner. Find me on [![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/17505458)
