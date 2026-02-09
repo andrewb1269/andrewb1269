@@ -12,9 +12,9 @@
 
 ## GitHub Stats
 
-| Stats                                                                                                              | Langs                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewb1269&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbarker-dev&show_icons=true&theme=react) |
+| Stats                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=andrewb1269&show_icons=true&theme=synthwave) |
 
 [![An image of @andrewb1269hg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrewb1269hg)](https://holopin.io/@andrewb1269hg)
 
