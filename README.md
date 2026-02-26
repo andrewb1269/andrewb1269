@@ -12,7 +12,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=andrewb1269&show_icons=true&theme=synthwave) 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=andrewb1269&show_icons=true&theme=synthwave)
 
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrewb1269&theme=synthwave)
 
