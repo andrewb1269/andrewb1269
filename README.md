@@ -32,4 +32,4 @@ Previous Github Account: [archived-andrewb1269-personal](https://github.com/arch
 
 🦋 Find me on BlueSky: [andrewb1269](https://bsky.app/profile/andrewb1269.bsky.social)
 
-🏃 Trail Runner. Find me on [![Strava](https://img.shields.io/badge/Strava-FC4C02?logo=strava&logoColor=white)](https://www.strava.com/athletes/17505458)
+🏃 Trail Runner
